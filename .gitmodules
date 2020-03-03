@@ -1,3 +1,6 @@
 [submodule "src/kirby"]
 	path = src/kirby
 	url = https://github.com/getkirby/kirby.git
+[submodule "src/site/plugins/gtm"]
+	path = src/site/plugins/gtm
+	url = https://github.com/wearecandyblue/kirby3-gtm.git

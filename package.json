@@ -1,0 +1,26 @@
+{
+  "name": "kirby3-starter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "gulp build:dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-mode": "^1.0.2",
+    "gulp-notify": "^3.2.0",
+    "gulp-purgecss": "^2.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-shorthand": "^1.1.0",
+    "gulp-sizereport": "^1.2.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "webpack-stream": "^5.2.1"
+  }
+}
